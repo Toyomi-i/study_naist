@@ -28,11 +28,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4340964/
 
 - __ITG__
 物体認識，高次の視覚野
-    - “Dynamic Population Coding of Category Information in Inferior Temporal and Prefrontal Cortex”, Journal of Neurophysiology<br>
-https://journals.physiology.org/doi/full/10.1152/jn.90248.2008
+    - "Neural representation for object recognition in inferotemporal cortex", Current Opinion in Neurobiology
+    https://www.sciencedirect.com/science/article/pii/S0959438815001798?casa_token=MLWEEyWHRLsAAAAA:2zXTNGxRlENbbu2fXnDSEAR9sSA4HoCcqnrbHCw86VrrjVhjem0fL7XAQOUs4Dnl6vjBxZxG1Hvi
 
-    - “Three-Dimensional Shape Coding in Inferior Temporal Cortex”, Neuron<br>
-https://www.sciencedirect.com/science/article/pii/S0896627300000453
+    - "The Organization and Operation of Inferior Temporal Cortex", Annual Review of Vision Science
+    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6404234/
 
 
 - __PhG__
