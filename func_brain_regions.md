@@ -18,6 +18,8 @@ https://www.jneurosci.org/content/29/9/2684
 言語関連
     - "Expert Programmers Have Fine-Tuned Cortical Representations of Source Code", eNeuro<br>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7877476/
+    - "Gray and White Matter Distribution in Dyslexia: A VBMStudy of Superior Temporal Gyrus Asymmetry", PLOS ONE<br>
+    https://journals.plos.org/plosone/article/comments?id=10.1371/journal.pone.0076823
 
 
 - __FuG__
